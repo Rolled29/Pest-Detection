@@ -1,4 +1,3 @@
-Harvin Aranza
 #include <Wire.h> 
 #include <Servo.h>          //standard library for the servo
 #include <NewPing.h>        //for the Ultrasonic sensor function library.
